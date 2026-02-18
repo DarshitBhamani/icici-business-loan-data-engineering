@@ -1,0 +1,21 @@
+product_key,product_code,loan_type,loan_purpose,collateral_type,min_tenure_months,max_tenure_months,pricing_model
+1,PROD0001,SME Loan,Working Capital,Partially Secured,24,48,Fixed
+2,PROD0002,SME Loan,Machinery Purchase,,18,48,Fixed
+3,PROD0003,Trade Finance,Machinery Purchase,Secured,18,36,Floating
+4,PROD0004,Term Loan,Inventory,Secured,18,84,Fixed
+5,PROD0005,Equipment Finance,Refinance,Partially Secured,12,36,Fixed
+6,PROD0006,Trade Finance,Liquidity,Partially Secured,36,24,Hybrid
+7,PROD0007,POS Loan,Digital Upgrade,Unsecured,36,24,Hybrid
+8,PROD0008,Working Capital,Working Capital,Secured,36,24,Floating
+9,PROD0009,Overdraft,Liquidity,Partially Secured,6,36,Floating
+10,PROD0010,Loan Against Property,Working Capital,Unsecured,6,36,Hybrid
+11,PROD0011,Term Loan,Expansion,Unsecured,6,84,Floating
+12,PROD0012,Overdraft,Refinance,Secured,18,48,Floating
+13,PROD0013,POS Loan,Liquidity,Unsecured,36,24,Floating
+14,PROD0014,MSME Loan,Inventory,Partially Secured,12,60,Fixed
+15,PROD0015,Trade Finance,Liquidity,,6,60,Hybrid
+16,PROD0016,SME Loan,Expansion,,12,60,Hybrid
+17,PROD0017,Term Loan,Inventory,Partially Secured,36,24,
+18,PROD0018,MSME Loan,Liquidity,Secured,24,24,
+19,PROD0019,Overdraft,Inventory,Unsecured,6,48,Fixed
+20,PROD0020,Loan Against Property,Expansion,,6,60,Hybrid
